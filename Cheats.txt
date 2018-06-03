@@ -1,0 +1,5 @@
+c - toggle cheat
+	r - red only (when cheat is on)
+	b - blue only (wehn cheat is on)
+	g - green only (when cheat is on)
+n - toggle color
